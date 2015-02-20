@@ -1,4 +1,4 @@
-### Guia do Fera
+## Guia do Fera
 
 O Guia do Fera é uma aplicação multimídia que busca servir de referência para aqueles que busquem conhecer o curso de Licenciatura em Ciência da Computação
 
@@ -13,7 +13,7 @@ O Guia foi inicialmente pensado para ser o conjunto de cinco módulos, que são:
 - Quem somos
 
 
-# Desenvolvedores
+### Desenvolvedores
 
 Por ordem alfabética:
 - Alex Juvêncio
@@ -25,7 +25,7 @@ Por ordem alfabética:
 - Raphael Salviano
 
 
-# Professor(es) responsáveis pelo projeto
+### Professor(es) responsáveis pelo projeto
 
 Por ordem alfabética:
 - Professora Dra. Yuska Paola

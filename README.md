@@ -9,7 +9,7 @@ O Guia foi inicialmente pensado para ser o conjunto de cinco módulos, que são:
 - A Cidade
 - A Universidade
 - A Vida universitária
-- O curso de LCC
+- O Curso de LCC
 - Quem somos
 
 

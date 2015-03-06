@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <form:update id="fu_br_ufpb_ccae_dcx_lcc_sm_curso_Professor" modelAttribute="professor" path="/professores" versionField="Version" z="jmC50gVPwrz6f42/OL/bU8mhMVM=">
+        <field:textarea field="nome" id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Professor_nome" required="true" z="ht1RbV9gEHfK5N227W3K4Eb3GCU="/>
+        <field:input field="cargo" id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Professor_cargo" required="true" validationMessageCode="field_invalid_integer" z="tpssXqJKtD/6c/yMYnRCC6z/kik="/>
+        <field:simple field="professorDisciplina" id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Professor_professorDisciplina" messageCode="entity_reference_not_managed" messageCodeAttribute="Professor Disciplina" z="BkEb08Y4yLmvCjSWaHypxyZiy/k="/>
+        <field:input field="status" id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Professor_status" required="true" validationMessageCode="field_invalid_integer" z="FNRq6oOTjPFeAQLZ275igHyo7zY="/>
+    </form:update>
+</div>

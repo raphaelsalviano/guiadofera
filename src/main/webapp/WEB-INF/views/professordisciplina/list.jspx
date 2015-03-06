@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_br_ufpb_ccae_dcx_lcc_sm_curso_ProfessorDisciplina" items="${professordisciplinaitems}" z="Y3Hj6eMQGxg0TiadOAzUHJT2mZ8=">
+        <table:table data="${professordisciplinaitems}" id="l_br_ufpb_ccae_dcx_lcc_sm_curso_ProfessorDisciplina" path="/professordisciplina" z="riBSt3MKifDbnwVLOlRYsBIc1uM=">
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_ProfessorDisciplina_status" property="status" z="k/byqAfqRt7mOjxBkugk6RSi+L4="/>
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_ProfessorDisciplina_periodo" property="periodo" z="cbMFIZuB5kWDG+mv7dmXsYQsTPg="/>
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_ProfessorDisciplina_semestre" property="semestre" z="q1o/8+Yjy7W3sGd1VO3pg9omT0g="/>
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_ProfessorDisciplina_professor" property="professor" z="LPzPn98HHcVr3hE4LxzCPFpb74c="/>
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_ProfessorDisciplina_disciplina" property="disciplina" z="/k8cLcxkGsw/4kbmatAre14cHPc="/>
+        </table:table>
+    </page:list>
+</div>

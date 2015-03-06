@@ -1,0 +1,91 @@
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 19:16:37
+project --topLevelPackage br.ufpb.ccae.dcx.lcc.sm
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-05 19:18:57
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 19:19:19
+persistence setup --database MYSQL --provider HIBERNATE
+entity jpa --class ~.curso.Disciplina
+field string --fieldName nome --notNull
+// [failed] field string --fieldName nome --notNull --sizeMin 2 --sizeMax 50
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 19:50:18
+web mvc json setup
+web mvc json all
+json all
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 20:00:23
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 20:26:55
+web mvc setup
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 20:35:20
+web mvc all --package ~.curso
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 20:51:55
+web mvc json all
+web mvc all --package ~.curso
+
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 23:06:56
+// [failed] web mvc all --package ~.curso
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 23:29:58
+web mvc all --package ~.curso
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 23:40:01
+web mvc json all
+web mvc all --package ~.curso
+web mvc all --package ~.curso
+web mvc json all
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-05 23:55:57
+web mvc json all
+json all
+web mvc all --package ~.curso
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:04:06
+web mvc all --package ~.curso
+json all
+web mvc json all
+web mvc all --package ~.curso
+web mvc json all
+web mvc json all
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:12:19
+web mvc json all
+web mvc all --package ~.curso
+web mvc all --package ~.curso
+web mvc json all
+web mvc all --package ~.curso
+json all
+web mvc json all
+web mvc all --package ~.curso
+json all
+web mvc json all
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:22:48
+web mvc json all
+json all
+web mvc all --package ~.curso
+web mvc json all
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:31:24
+web mvc json all
+json all
+web mvc json all
+json all
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:38:14
+json all
+web mvc json all
+json all
+web mvc json all
+web mvc all --package ~.curso
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:49:15
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:51:47
+focus --class  ~curso.Disciplina
+focus --class  ~curso.Professor
+focus --class  ~curso.ProfessorDisciplina
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 00:54:23
+web mvc all --package br.ufpb.ccae.dcx.lcc.sm.curso
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 01:12:20
+web mvc all --package br.ufpb.ccae.dcx.lcc.sm.curso
+web mvc json all
+json all
+web mvc json all
+web mvc all --package ~.curso
+web mvc json all
+web mvc json all
+web mvc json all
+// [failed] web mvc all --package ~.curso
+web mvc all --package ~.curso
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2015-03-06 02:21:23
+web mvc all --package ~.curso
+web mvc json all
+web mvc json all
+web mvc all --package br.ufpb.ccae.dcx.lcc.sm.curso

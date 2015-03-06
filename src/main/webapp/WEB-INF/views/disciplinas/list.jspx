@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_br_ufpb_ccae_dcx_lcc_sm_curso_Disciplina" items="${disciplinas}" z="rLOlddI0SQmGvgHiKyYVE9jHNF0=">
+        <table:table data="${disciplinas}" id="l_br_ufpb_ccae_dcx_lcc_sm_curso_Disciplina" path="/disciplinas" z="6vpoyAoz3EMZ5u8SYITomxLyg+A=">
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Disciplina_nome" property="nome" z="3x5jtHolTpOsPpGjGR1ngdFThqw="/>
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Disciplina_status" property="status" z="mNGCfOhcwaucKX9jTvnNTL9dZTg="/>
+        </table:table>
+    </page:list>
+</div>

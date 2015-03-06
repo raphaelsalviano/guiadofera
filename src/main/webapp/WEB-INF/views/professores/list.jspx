@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_br_ufpb_ccae_dcx_lcc_sm_curso_Professor" items="${professores}" z="user-managed">
+        <table:table data="${professores}" id="l_br_ufpb_ccae_dcx_lcc_sm_curso_Professor" path="/professores" z="user-managed">
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Professor_nome" property="nome" z="VSOaEM8w2NVzGpvutW3j+1B7k7Y="/>
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Professor_cargo" property="cargo" z="eSPk3/18DAjVDXs+QtVNCRcR6HM="/>
+            <table:column id="c_br_ufpb_ccae_dcx_lcc_sm_curso_Professor_status" property="status" z="0R1ar3y97msOmWxt2aYFNQMAKdU="/>
+        </table:table>
+    </page:list>
+</div>

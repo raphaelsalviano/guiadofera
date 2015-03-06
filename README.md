@@ -18,6 +18,13 @@ O Guia foi inicialmente pensado para ser o conjunto de cinco módulos, que são:
 - Maven >= 3.2.3
 - Spring Roo >= 1.3.1
 - Spring IDE Roo Extension >= 3.6.3
+- Java 7
+
+## Iniciando a aplicação
+
+```bash
+$ mvn tomcat:run 
+```
 
 ### Desenvolvedores
 

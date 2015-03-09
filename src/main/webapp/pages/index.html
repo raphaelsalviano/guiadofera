@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hello, World!</title>.
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script>
+	$(document).ready(
+			function() {
+				$.ajax({
+					//url : "http://rest-service.guides.spring.io/greeting"
+					url : "http://localhost:8080/guiadofera/disciplinas/1"
+				}).then(
+						function(data) {
+							$('.div-id').append(data.id);
+							$('.div-nome').append(data.nome);
+							$('.div-status').append(data.status);
+						});
+			});
+</script>
+</head>
+
+<body>
+	<h1>Hello, World!</h1>
+	<p>This is an excellent way to see our work.</p>
+
+	<h1 style="margin-top: 14px; color: #777; margin-bottom: 4px;">Notícias
+		server</h1>
+		<p>ID: </p><p class="div-id"></p>
+		<p>Nome: </p><p class="div-nome"></p>
+		<p>Status: </p><p class="div-status"></p>
+		
+</body>
+</html>

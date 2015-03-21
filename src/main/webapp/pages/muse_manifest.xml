@@ -1,0 +1,183 @@
+<manifest alg="2" build="44" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426852580902">
+  <folder name="css">
+    <file name="site_global.css" crc="236082554"/>
+    <file name="a-cidade.css" crc="442258906" ref="a-cidade"/>
+    <file name="quem-somos.css" crc="4089963291" ref="quem-somos"/>
+    <file name="a-universidade.css" crc="3889529713" ref="a-universidade"/>
+    <file name="index.css" crc="4027437464" ref="index"/>
+    <file name="sobre-o-campus.css" crc="376942298" ref="sobre-o-campus"/>
+    <file name="mapa-do-campus.css" crc="4110877199" ref="mapa-do-campus"/>
+    <file name="sobre-a-universidade.css" crc="4237748929" ref="sobre-a-universidade"/>
+    <file name="mapa-da-universidade.css" crc="511371439" ref="mapa-da-universidade"/>
+    <file name="a-vida-universit_ria.css" crc="426186631" ref="a-vida-universitária"/>
+    <file name="campus-iii.css" crc="127519760" ref="campus-iii"/>
+    <file name="campus-i.css" crc="4034201925" ref="campus-i"/>
+    <file name="campus-iv.css" crc="231261983" ref="campus-iv"/>
+    <file name="campus-ii.css" crc="4219525720" ref="campus-ii"/>
+    <file name="bolsa-perman_ncia.css" crc="3792433380" ref="bolsa-permanência"/>
+    <file name="auxilios-moradia-e-alimenta__o.css" crc="4190166632" ref="auxilios-moradia-e-alimentação"/>
+    <file name="mapa-do-site.css" crc="4065307432" ref="mapa-do-site"/>
+    <file name="contato.css" crc="3853865420" ref="contato"/>
+    <file name="sobre-o-site.css" crc="100630522" ref="sobre-o-site"/>
+    <file name="dicas-em-v_deos.css" crc="4040791288" ref="dicas-em-vídeos"/>
+    <file name="a-vida.css" crc="56769447" ref="a-vida"/>
+    <file name="duvidas-frequentes.css" crc="4214967851" ref="duvidas-frequentes"/>
+    <file name="depoimentos-em-v_deos.css" crc="244520028" ref="depoimentos-em-vídeos"/>
+    <file name="o-curso-de-lcc.css" crc="4170527148" ref="o-curso-de-lcc"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="phone>index:phone>a-universidade:phone>a-cidade:phone>quem-somos:phone>o-curso-de-lcc:tablet>index:index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:campus-i:campus-ii:campus-iii:campus-iv:auxilios-moradia-e-alimentação:bolsa-permanência:phone>a-vida-universitária:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>sobre-o-campus:phone>mapa-do-campus:phone>auxilio-moradia-e-alimentação:phone>bolsa-permanência:contato:sobre-o-site:mapa-do-site:a-vida:duvidas-frequentes:dicas-em-vídeos:depoimentos-em-vídeos:o-curso-de-lcc"/>
+    <file name="museutils.js" crc="479751881" ref="phone>index:phone>a-universidade:phone>a-cidade:phone>quem-somos:phone>o-curso-de-lcc:tablet>index:index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:campus-i:campus-ii:campus-iii:campus-iv:auxilios-moradia-e-alimentação:bolsa-permanência:phone>a-vida-universitária:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>sobre-o-campus:phone>mapa-do-campus:phone>auxilio-moradia-e-alimentação:phone>bolsa-permanência:contato:sobre-o-site:mapa-do-site:a-vida:duvidas-frequentes:dicas-em-vídeos:depoimentos-em-vídeos:o-curso-de-lcc"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="phone>index:phone>a-universidade:phone>a-cidade:phone>quem-somos:phone>o-curso-de-lcc:tablet>index:index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:campus-i:campus-ii:campus-iii:campus-iv:auxilios-moradia-e-alimentação:bolsa-permanência:phone>a-vida-universitária:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>sobre-o-campus:phone>mapa-do-campus:phone>auxilio-moradia-e-alimentação:phone>bolsa-permanência:contato:sobre-o-site:mapa-do-site:a-vida:duvidas-frequentes:dicas-em-vídeos:depoimentos-em-vídeos:o-curso-de-lcc"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="phone>index:tablet>index:index:sobre-a-universidade:sobre-o-campus:a-universidade:phone>sobre-o-campus:a-vida"/>
+    <file name="webpro.js" crc="3930024250" ref="phone>index:tablet>index:index:a-vida-universitária"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="phone>index:tablet>index:index:a-vida-universitária"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="phone>index:tablet>index:index:a-vida-universitária"/>
+    <file name="touchswipe.js" crc="4151298246" ref="phone>index:tablet>index:index:a-vida-universitária"/>
+    <file name="musewpdisclosure.js" crc="102406591" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="phone>index:phone>a-universidade:phone>a-cidade:phone>quem-somos:phone>o-curso-de-lcc:tablet>index:index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:campus-i:campus-ii:campus-iii:campus-iv:auxilios-moradia-e-alimentação:bolsa-permanência:phone>a-vida-universitária:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>sobre-o-campus:phone>mapa-do-campus:phone>auxilio-moradia-e-alimentação:phone>bolsa-permanência:contato:sobre-o-site:mapa-do-site:a-vida:duvidas-frequentes:dicas-em-vídeos:depoimentos-em-vídeos:o-curso-de-lcc"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>a-universidade:phone>a-cidade:phone>quem-somos:phone>o-curso-de-lcc:tablet>index:index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:campus-i:campus-ii:campus-iii:campus-iv:auxilios-moradia-e-alimentação:bolsa-permanência:phone>a-vida-universitária:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>sobre-o-campus:phone>mapa-do-campus:phone>auxilio-moradia-e-alimentação:phone>bolsa-permanência:contato:sobre-o-site:mapa-do-site:a-vida:duvidas-frequentes:dicas-em-vídeos:depoimentos-em-vídeos:o-curso-de-lcc"/>
+    <file name="museredirect.js" crc="172797823" ref="index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:bolsa-permanência:o-curso-de-lcc"/>
+    <file name="jquery.scrolleffects.js" crc="445554118" ref="a-universidade:sobre-o-campus:sobre-a-universidade:phone>sobre-o-campus"/>
+  </folder>
+  <folder name="images">
+    <file name="facebook.png" crc="317936629" ref="phone>index:phone>a-universidade:phone>a-cidade:phone>quem-somos:phone>o-curso-de-lcc:tablet>index:index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:campus-i:campus-ii:campus-iii:auxilios-moradia-e-alimentação:bolsa-permanência:phone>a-vida-universitária:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>sobre-o-campus:phone>mapa-do-campus:phone>auxilio-moradia-e-alimentação:phone>bolsa-permanência:contato:sobre-o-site:mapa-do-site:a-vida:duvidas-frequentes:dicas-em-vídeos:depoimentos-em-vídeos:o-curso-de-lcc"/>
+    <file name="twitter.png" crc="4102706121" ref="phone>index:phone>a-universidade:phone>a-cidade:phone>quem-somos:phone>o-curso-de-lcc:tablet>index:index:a-universidade:quem-somos:a-cidade:sobre-a-universidade:sobre-o-campus:mapa-da-universidade:mapa-do-campus:a-vida-universitária:campus-i:campus-ii:campus-iii:campus-iv:auxilios-moradia-e-alimentação:bolsa-permanência:phone>a-vida-universitária:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>sobre-o-campus:phone>mapa-do-campus:phone>auxilio-moradia-e-alimentação:phone>bolsa-permanência:contato:sobre-o-site:mapa-do-site:a-vida:duvidas-frequentes:dicas-em-vídeos:depoimentos-em-vídeos:o-curso-de-lcc"/>
+    <file name="1596649_678014755578598_1077676928_o-u1524-fr.jpg" crc="4101852810" ref="phone>index"/>
+    <file name="u2284-4.png" crc="132343419" ref="phone>index"/>
+    <file name="icon.png" crc="397855693" ref="phone>index:tablet>index:index"/>
+    <file name="1.jpg" crc="479499418" ref="phone>index:tablet>index:index"/>
+    <file name="u2278-4.png" crc="4034614995" ref="phone>index"/>
+    <file name="03-u1523-fr.jpg" crc="4183849458" ref="phone>index"/>
+    <file name="u2264-4.png" crc="277566538" ref="phone>index"/>
+    <file name="placeholder.jpg" crc="4231620626" ref="phone>index:tablet>index"/>
+    <file name="placeholder-u1587-fr.jpg" crc="4271471145" ref="phone>index"/>
+    <file name="1596649_678014755578598_1077676928_o-u2596-fr.jpg" crc="3761047128" ref="tablet>index"/>
+    <file name="u2601-4.png" crc="38722449" ref="tablet>index"/>
+    <file name="u2610-4.png" crc="4200651599" ref="tablet>index"/>
+    <file name="03.jpg" crc="4109996739" ref="tablet>index:index"/>
+    <file name="u2604-4.png" crc="4070043845" ref="tablet>index"/>
+    <file name="u2256-4.png" crc="146686789" ref="index"/>
+    <file name="u2251-4.png" crc="3949297978" ref="index"/>
+    <file name="u1685-4.png" crc="3838667124" ref="index"/>
+    <file name="road.jpg" crc="336456884" ref="index"/>
+    <file name="cactus-crop-u1205.jpg" crc="401562993" ref="index"/>
+    <file name="u3808-4.png" crc="4200105679" ref="a-universidade"/>
+    <file name="fumaca-esquerdo.png" crc="102676851" ref="a-universidade"/>
+    <file name="foguete.png" crc="3761315153" ref="a-universidade"/>
+    <file name="fumaca-direito.png" crc="3911588892" ref="a-universidade"/>
+    <file name="estrela.png" crc="165830479" ref="a-universidade"/>
+    <file name="ufpb.jpg" crc="3819516516" ref="sobre-a-universidade"/>
+    <file name="ufpbbrasao.png" crc="4112204238" ref="sobre-a-universidade"/>
+    <file name="reitoria.jpg" crc="3844791080" ref="sobre-a-universidade"/>
+    <file name="mapa.png" crc="401328372" ref="mapa-da-universidade"/>
+    <file name="check.png" crc="414042900" ref="mapa-da-universidade"/>
+    <file name="aviao.png" crc="164645305" ref="quem-somos:mapa-do-campus:phone>a-universidade:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>mapa-do-campus:contato:sobre-o-site:mapa-do-site:o-curso-de-lcc:duvidas-frequentes"/>
+    <file name="maps.png" crc="358431943" ref="quem-somos:mapa-do-campus:phone>a-universidade:phone>sobre-a-universidade:phone>mapa-da-universidade:phone>mapa-do-campus:contato:sobre-o-site:mapa-do-site:o-curso-de-lcc:duvidas-frequentes"/>
+    <file name="img_0010.jpg" crc="4284522871" ref="sobre-o-campus"/>
+    <file name="img_0896.jpg" crc="489605757" ref="a-universidade"/>
+    <file name="img_0898.jpg" crc="4152845591" ref="a-universidade"/>
+    <file name="img_0894.jpg" crc="4232814110" ref="a-universidade"/>
+    <file name="img_0010-u7520-fr.jpg" crc="482685990" ref="phone>sobre-o-campus"/>
+    <file name="img_0898-u989-fr.jpg" crc="4053905182" ref="index"/>
+    <file name="10931201_855598461153649_3225126778292848604_o.jpg" crc="3885222682" ref="index"/>
+    <file name="10866148_855598071153688_4878255306196674947_o.jpg" crc="4168517341" ref="index"/>
+    <file name="10922661_969581249727919_4305167731702135749_n.jpg" crc="269123801" ref="index"/>
+    <file name="11051924_969583273061050_5306124421045610297_o.jpg" crc="4063769682" ref="index"/>
+    <file name="reitora_campus4-crop-u1213.jpg" crc="156573209" ref="index"/>
+    <file name="10422431_855598544486974_8342701354615454894_n.jpg" crc="118001684" ref="a-vida-universitária"/>
+    <file name="blank.gif" crc="4208392903" ref="a-vida-universitária"/>
+    <file name="10557228_969581179727926_8990766928226834092_n.jpg" crc="39283203" ref="a-vida-universitária"/>
+    <file name="10801837_969581449727899_5012547238087947922_n.jpg" crc="4020526956" ref="a-vida-universitária"/>
+    <file name="11015220_855598071153688_4878255306196674947_n.jpg" crc="178800280" ref="a-vida-universitária:a-vida"/>
+    <file name="11043085_969581176394593_4378780619000380474_n.jpg" crc="274352911" ref="a-vida-universitária"/>
+    <file name="11045370_969581216394589_6982695670445186213_n.jpg" crc="3860473394" ref="a-vida-universitária"/>
+    <file name="11054306_855598311153664_6798297311671820891_n-crop-u7544.jpg" crc="4115414853" ref="a-vida-universitária"/>
+    <file name="11061658_969581419727902_5836909439299607636_n.jpg" crc="3956574914" ref="a-vida-universitária"/>
+    <file name="11069403_969579659728078_1422388003675643774_n.jpg" crc="3809185852" ref="a-vida-universitária"/>
+    <file name="dscn3098.jpg" crc="4214260255" ref="a-vida-universitária"/>
+    <file name="dscn3101.jpg" crc="4193337173" ref="a-vida-universitária"/>
+    <file name="dscn3111.jpg" crc="402098546" ref="a-vida-universitária"/>
+    <file name="dscn3124.jpg" crc="411806897" ref="a-vida-universitária"/>
+    <file name="dscn4419.jpg" crc="285729824" ref="a-vida-universitária"/>
+    <file name="img_1480.jpg" crc="3802155371" ref="a-vida-universitária"/>
+    <file name="10422431_855598544486974_8342701354615454894_n60x45.jpg" crc="4112664976" ref="a-vida-universitária"/>
+    <file name="10557228_969581179727926_8990766928226834092_n60x45.jpg" crc="4212261431" ref="a-vida-universitária"/>
+    <file name="10801837_969581449727899_5012547238087947922_n-crop-u7601.jpg" crc="3840637673" ref="a-vida-universitária"/>
+    <file name="10922661_969581249727919_4305167731702135749_n60x45.jpg" crc="3825866755" ref="a-vida-universitária"/>
+    <file name="11015220_855598071153688_4878255306196674947_n60x45.jpg" crc="4261090145" ref="a-vida-universitária"/>
+    <file name="11043085_969581176394593_4378780619000380474_n60x45.jpg" crc="81709765" ref="a-vida-universitária"/>
+    <file name="11045370_969581216394589_6982695670445186213_n60x45.jpg" crc="3885238271" ref="a-vida-universitária"/>
+    <file name="11054306_855598311153664_6798297311671820891_n-crop-u7579.jpg" crc="276955744" ref="a-vida-universitária"/>
+    <file name="11061658_969581419727902_5836909439299607636_n60x45.jpg" crc="45711972" ref="a-vida-universitária"/>
+    <file name="11069403_969579659728078_1422388003675643774_n60x45.jpg" crc="4008915635" ref="a-vida-universitária"/>
+    <file name="dscn309860x45.jpg" crc="450553281" ref="a-vida-universitária"/>
+    <file name="dscn310160x45.jpg" crc="3906752222" ref="a-vida-universitária"/>
+    <file name="dscn311160x45.jpg" crc="4127386677" ref="a-vida-universitária"/>
+    <file name="dscn312460x45.jpg" crc="132165595" ref="a-vida-universitária"/>
+    <file name="dscn441960x45.jpg" crc="4141219373" ref="a-vida-universitária"/>
+    <file name="img_148060x45.jpg" crc="3902291497" ref="a-vida-universitária"/>
+    <file name="loading.gif" crc="3815509949" ref="a-vida-universitária"/>
+    <file name="img_1482.jpg" crc="520690774" ref="a-vida"/>
+    <file name="img_1501.jpg" crc="343560500" ref="a-vida"/>
+    <file name="10922661_969581249727919_4305167731702135749_n-u8129-fr.jpg" crc="3969858680" ref="a-vida"/>
+    <file name="10922661_969581249727919_4305167731702135749_n2.jpg" crc="3797159048" ref="a-vida-universitária"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4133142317" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3939361177" mt="1426831906881" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4179667704" ref="phone>index"/>
+      <file name="o-curso-de-lcc.css" crc="3775934614" ref="phone>o-curso-de-lcc"/>
+      <file name="a-cidade.css" crc="47741808" ref="phone>a-cidade"/>
+      <file name="a-universidade.css" crc="3861489829" ref="phone>a-universidade"/>
+      <file name="quem-somos.css" crc="4078917499" ref="phone>quem-somos"/>
+      <file name="mapa-do-campus.css" crc="325729992" ref="phone>mapa-do-campus"/>
+      <file name="bolsa-perman_ncia.css" crc="4229254816" ref="phone>bolsa-permanência"/>
+      <file name="mapa-da-universidade.css" crc="4243738094" ref="phone>mapa-da-universidade"/>
+      <file name="sobre-a-universidade.css" crc="343237812" ref="phone>sobre-a-universidade"/>
+      <file name="a-vida-universit_ria.css" crc="4134738110" ref="phone>a-vida-universitária"/>
+      <file name="auxilio-moradia-e-alimenta__o.css" crc="67025017" ref="phone>auxilio-moradia-e-alimentação"/>
+      <file name="sobre-o-campus.css" crc="205126738" ref="phone>sobre-o-campus"/>
+    </folder>
+    <file name="index.html" crc="143332344" mt="1426831906884" redirect="true"/>
+    <file name="a-universidade.html" crc="4283179528" mt="1426832778937" redirect="true"/>
+    <file name="a-cidade.html" crc="3887268645" mt="1426831906885" redirect="true"/>
+    <file name="quem-somos.html" crc="4031300217" mt="1426831906887" redirect="true"/>
+    <file name="o-curso-de-lcc.html" crc="170571782" mt="1426852491430" redirect="true"/>
+    <file name="a-vida-universitária.html" crc="4289000357" mt="1426852556511" redirect="true"/>
+    <file name="sobre-a-universidade.html" crc="486757348" mt="1426832792851" redirect="true"/>
+    <file name="mapa-da-universidade.html" crc="46513882" mt="1426832806600" redirect="true"/>
+    <file name="sobre-o-campus.html" crc="4015222828" mt="1426833224122" redirect="true"/>
+    <file name="mapa-do-campus.html" crc="3877334428" mt="1426832827559" redirect="true"/>
+    <file name="auxilio-moradia-e-alimentação.html" crc="4032450340" mt="1426833034400" redirect="true"/>
+    <file name="bolsa-permanência.html" crc="258330650" mt="1426833079799" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="498852526" mt="1426852556505" redirect="true"/>
+  <file name="a-universidade.html" crc="491980933" mt="1426852556484" redirect="true"/>
+  <file name="quem-somos.html" crc="3965028900" mt="1426852556478" redirect="true"/>
+  <file name="a-cidade.html" crc="4177932162" mt="1426852556481" redirect="true"/>
+  <file name="sobre-a-universidade.html" crc="4207406249" mt="1426852556486" redirect="true"/>
+  <file name="sobre-o-campus.html" crc="61159983" mt="1426852556504" redirect="true"/>
+  <file name="mapa-da-universidade.html" crc="275036962" mt="1426852556506" redirect="true"/>
+  <file name="mapa-do-campus.html" crc="4066826849" mt="1426852556477" redirect="true"/>
+  <file name="a-vida-universitária.html" crc="47728908" mt="1426852556509" redirect="true"/>
+  <file name="campus-i.html" crc="4115879058" mt="1426852556480" redirect="true"/>
+  <file name="campus-ii.html" crc="185436022" mt="1426852556493" redirect="true"/>
+  <file name="campus-iii.html" crc="4056807006" mt="1426852556502" redirect="true"/>
+  <file name="campus-iv.html" crc="409159815" mt="1426852556501" redirect="true"/>
+  <file name="auxilios-moradia-e-alimentação.html" crc="4049076097" mt="1426852556485" redirect="true"/>
+  <file name="bolsa-permanência.html" crc="4104533949" mt="1426852556482" redirect="true"/>
+  <file name="contato.html" crc="4001141550" mt="1426852556500" redirect="true"/>
+  <file name="sobre-o-site.html" crc="4270668301" mt="1426852556490" redirect="true"/>
+  <file name="mapa-do-site.html" crc="3858027983" mt="1426852556489" redirect="true"/>
+  <file name="a-vida.html" crc="3946106764" mt="1426852556492" redirect="true"/>
+  <file name="duvidas-frequentes.html" crc="278906225" mt="1426852556488" redirect="true"/>
+  <file name="dicas-em-vídeos.html" crc="4198687287" mt="1426852556496" redirect="true"/>
+  <file name="depoimentos-em-vídeos.html" crc="3839646410" mt="1426852556497" redirect="true"/>
+  <file name="o-curso-de-lcc.html" crc="4054817854" mt="1426852556494" redirect="true"/>
+</manifest>
